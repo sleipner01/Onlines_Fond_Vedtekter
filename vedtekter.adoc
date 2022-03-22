@@ -31,8 +31,6 @@ Ved generalforsamling er disse vervene nødvendig:
 * Ordstyrer
 * To referenter - skriver referat og samarbeider om renskriving
 * Minst to til tellekorps - teller opp stemmene ved avstemming
-* To paraferer - godkjenner referat fra generalforsmling og de endrede vedtekene
-i etterkant av generalforsamlingen.
 
 Ved generalforsamling som avholdes samtidig med generalforsamling i regi av Online,
 vil tilsvarende verv ved denne automatisk tilfalle disse vervene.
